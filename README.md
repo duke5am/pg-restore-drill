@@ -109,4 +109,4 @@ A normal Linux host needs neither.
 The paid kit adds the restore runbook for 3am, the backup-strategy and RPO/RTO
 reasoning, the common-failures catalogue, and the full documentation set.
 
-→ **PostgreSQL Backup & PITR Restore-Drill Kit**: <!-- GUMROAD-LINK -->
+→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
