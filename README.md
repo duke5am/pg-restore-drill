@@ -109,4 +109,21 @@ A normal Linux host needs neither.
 The paid kit adds the restore runbook for 3am, the backup-strategy and RPO/RTO
 reasoning, the common-failures catalogue, and the full documentation set.
 
+<!-- RELATED:START -->
+
+## Related tools
+
+- **[pg-perf-check](https://github.com/duke5am/pg-perf-check)** — PostgreSQL performance diagnostics: 24 read-only checks and 7 SQL files for bloat, missing indexes, slow queries, locks and autovacuum.
+  *(if you were searching for "postgres performance tuning queries")*
+- **[postgres-migration-safety-lint](https://github.com/duke5am/postgres-migration-safety-lint)** — Lint SQL migrations before they run: finds statements that take an ACCESS EXCLUSIVE lock, rewrite a table, or destroy data, and gives the safe rewrite.
+  *(if you were searching for "postgres migration lock")*
+- **[rls-policy-tester](https://github.com/duke5am/rls-policy-tester)** — Prove user A cannot read user B's rows in Postgres or Supabase with row level security, including negative controls that fail on a missing policy.
+  *(if you were searching for "supabase rls test")*
+
+All 28 tools in this set, grouped by what they check: **[dev-tools-index](https://duke5am.github.io/dev-tools-index/)**
+
+If you arrived here searching for one of these, this is the tool: **test postgres backup restore** · **point in time recovery test** · **pg_basebackup wal archive verify** · **postgres restore drill**
+
+<!-- RELATED:END -->
+
 → More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
