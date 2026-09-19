@@ -126,4 +126,4 @@ If you arrived here searching for one of these, this is the tool: **test postgre
 
 <!-- RELATED:END -->
 
-→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
+→ **[PostgreSQL Backup & PITR Restore-Drill Kit](https://duke5am.gumroad.com/l/34-postgres-backup-pitr)** — $34 on Gumroad <!-- GUMROAD-LINK -->
